@@ -1,6 +1,6 @@
 <h3>what is hypertext fiction?</h3>
 
-<body> Hypertext fiction is an emerging that offers alternate storylines, tenses and settings to 
+<body> Hypertext fiction is an experimental form of literature that offers alternate storylines, tenses and settings to 
 fictional work via interactive hyperlinks.
 
 It amplifies narrative by differing the standards and choices of chronology/linear stories associated
