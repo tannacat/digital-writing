@@ -11,6 +11,7 @@ EXERCISES:
     
 REFLECTIONS:
 
+    -final project
     -digital dada experiment
     -digital n7 experiment
     -digital bitsy experiment
