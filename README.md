@@ -8,8 +8,14 @@ EXERCISES:
     -in class experiments, links to their digital counterparts
     -electronic literature analysis
     
-REFLECTIONS on digital pieces are in their README.md files in their respective repositories. 
-(we walk to you, n7, dadaist, bitsy, twine projects)
+REFLECTIONS:
+
+    -digital dada experiment
+    -digital n7 experiment
+    -digital bitsy experiment
+    -digital twine experiment
+    -digital wewalktoyou experiment
+    
   </h5>
 
 
