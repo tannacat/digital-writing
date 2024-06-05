@@ -3,6 +3,7 @@
 <h5>
 EXERCISES: 
 
+    
     -introduction of my writing
     -notes + scripts of my presentation tasks
     -in class experiments, links to their digital counterparts
