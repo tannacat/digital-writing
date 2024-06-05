@@ -1,13 +1,14 @@
-# *☀️ what are we doing here?* ☀️        
+<h2> $${\color{lightblue} welcome!}$$ </h2>
 
-$${\color{lightblue} welcome!}$$
+<h5>
+EXERCISES: 
 
-...to my suffering 
-as I explore and discover github and the 
-incredulous world of digital writing!
-I adore mixed media, and the idea of 
-interactive literature, <sub>though anything
-resembling code makes my brain feel as if 
-it's been left out on the kitchen sink defrosting for hours.<sub/>
+    -introduction of my writing
+    -notes + scripts of my presentation tasks
+    -in class experiments, links to their digital counterparts
+    
+REFLECTIONS on digital pieces are in their README.md files in their respective repositories. 
+(we walk to you, n7, dadaist, bitsy, twine projects)
+  </h5>
 
 
