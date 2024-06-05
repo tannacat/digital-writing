@@ -1,8 +1,6 @@
-<h4>my second attempt at twine
-
-   *you can find it here!* 
-
-(https://tannacat.github.io/I-think-twine-story/)</h4>
+<h4> my second attempt at twine 
+  
+  you can find it here! (https://tannacat.github.io/I-think-twine-story/)</h4>
 
 
 <body> this attempt was a much more thoughtful, lengthened process as I was introducing myself  
