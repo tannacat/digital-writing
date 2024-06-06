@@ -102,6 +102,6 @@ a much more refined and enjoyable reading to my text.</h4>
 
 <h3>my final product</h3>
 
-<h4>you can view it HERE:    xxx  xx  x xx </h4>
+<h4>you can view it HERE: (https://tannacat.github.io/final-proj-snow-season/)</h4>
 
 
