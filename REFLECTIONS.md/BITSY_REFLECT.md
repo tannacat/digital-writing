@@ -17,3 +17,7 @@ I think I would try this out at a later date, whether it be for fun or for my ge
 interesting to view how my work would transition over to such an abstract platform. 
 
 It's a platform that can get you very fixated, and is a game in itself! </body>
+
+<img width="810" alt="bitsy11" src="https://github.com/tannacat/digital-writing/assets/162094556/adf96278-acc5-4a42-a69d-0e5708adc26d">
+<img width="810" alt="bitsy22" src="https://github.com/tannacat/digital-writing/assets/162094556/cc4587a4-dec4-424e-a6a3-8c84839c4588">
+
