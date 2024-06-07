@@ -1,12 +1,19 @@
 <h2> We Walk to You </h2>
 
 <body> This experiment was one of my favourites, as it was seemingly very easy, but one I could see
-working with my own narrative work. Its elements reminded me of my assesment 1 task, with the dissapearing, coming and 
-goings of text, but with the twist of never knowing what phrases it will build with the words you'd included.
+working with my own narrative work.
+  
+Its elements reminded me of 'Dawn', studied in my assesment 1 task, with the dissapearing, coming and 
+goings of text, but this form played with generative appearing and dissapearing text forms, 
+never knowing of the descriptors it will pluck from your list of choices.
 
-I went for a kind of theme, regarding envirionmental elements and I find it quite a joy just to watch what it comes up with. 
-If I spent more time on it, I could collect a series of words that would make more of an ongoing story, 
-but I think it's randomness is a great part of its essence. 
+I went for a environmental/bacterial theme, wondering if I used similar connected words, it would produce an interactive poem
+easily enjoyed- hence the use of words like fungi and outdoorsmen. The result, after messing around
+a few times with presentation, is something I genuinely enjoy- and with a few attentive fixes would be a work
+I wouldn't be hesitant to share.
+
+In saying this, I think its random-generation is the best of its aspects, and I can only imagine how fun it would be to implement 
+contrasting words and ideals instead of a consistent theme.
 
 It's an easy remix to reuse time and time again, by changing different things like colours, fonts, alignment and timings. 
 </body>
