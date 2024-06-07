@@ -46,8 +46,9 @@ mould us into and our interactions with this. In exploring this, I came upon a s
 in the essence of homes, but more so in an individual, more explorative notion, uninvoled with other parties. 
 I think one of the ideals that scared me most in the earlier work was that a relationship
 tends to have a beginning and end, or a tension with resolution. Sometimes I get stuck when writing
-unhappy narratives, as its not something I feel people want to manifest into their own fictional lives, 
-especially if one may be feeling alike that in their daily life. This story is much more
+unhappy narratives, as its not something I feel I want to manifest into the world or my life- there are already alot of depressing narratives to interact with, I don't feel genuine about contributing when I could easily not.
+
+This story is much more
 ambigious, outlining the narrators mental state and how they feel the home is turning against them
 physically and mentally. I would have been willing to dissect this in a longer format, but 
 I feel pleasantly towards the length I have chosen, and think any longer it would be considered more
