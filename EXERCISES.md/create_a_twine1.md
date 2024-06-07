@@ -2,9 +2,14 @@
 <h4>my first twine experiment after being introduced to twine!</h4>
 
 <body>
-it is very tiny, very simple, and I was testing the waters with a very simple, two choice format. 
-as you can see, I have urls to websites embedded in the last two options, which required a bit of reading online to
-figure out! Same with changing the colour of the background (twice!). I hadn't dabbled with importing fonts, CSS or 
+it is very tiny, very simple, and I was testing the waters with an easy, two choice format. 
+  
+As you can see, I have urls to websites embedded in the last two options, which required a bit of reading online to
+figure out! 
+
+Same with changing the colour of the background (twice!). 
+
+I hadn't dabbled with importing fonts, CSS or 
 github pages yet, but I think it was a valiant first experiment, and once you get into it, it is actually very fun!</body>
 
 ![first twine experiment Large](https://github.com/tannacat/digital-writing/assets/162094556/14284582-77e2-402c-8949-d079096a80c2)
