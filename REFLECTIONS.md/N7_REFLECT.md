@@ -14,13 +14,15 @@ you just cannot poeticise. But in reflecting, its certainly the perspective in w
 in. 
 
 I wouldn't use this method as a conclusive addition to the work- but rather a starting point for a further experiment, in
-attemtping to create a new or similar poem around the generated words. 
+attempting to create a new or similar poem around the generated words. 
 
 I don't have documentation of my very first digital N7 work; I mostly scoffed and thought the process was a bit of baloney and closed the browser with a concerning immediacy, but I did 
 revisit it with a new text, one that wasn't as deep and soulful as the prior poetry I'd wrote. 
 To resist any touch-ups or refined work, I wrote this passage straight into the html in less than a few minutes. 
 I feel approaching this method with work you havent fawned and picked over already gives you a much better outlook
 and perspective to its creations.
+
+In looking back at the text I'd created, it is a bit grim isnt it? 
 
 
 
